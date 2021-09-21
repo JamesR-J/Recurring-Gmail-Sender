@@ -23,4 +23,4 @@ This should solve the authentication email. For this use I didn't want to chagne
 * email.message
 
 ## Next Steps:
-* Create an app that users will sign up to and get rid of the need to manually update the CSV files with every new user of the project.
+* Create an app that users will sign up to and automatically updates the script with the correct users for each day, will get rid of the need to manually update the CSV files with every new user of the project.
